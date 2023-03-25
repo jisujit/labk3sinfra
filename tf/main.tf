@@ -1,4 +1,5 @@
 //TODO:$1: add provider for proxmox
+//TODO:$3: add url to the tutorial 
 //Ref: https://registry.terraform.io/modules/fvumbaca/k3s/proxmox/latest
 
 module "k3s" {
